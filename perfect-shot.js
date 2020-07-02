@@ -14,7 +14,7 @@ const finalPosition = function (moves) {
       case 'west':
         position[0]--;
         break;
-      }
+    }
   }
   return position;
 } 
